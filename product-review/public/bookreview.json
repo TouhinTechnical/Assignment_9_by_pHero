@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6255cd146110835408ca6c9c",
+      "name": "Lilly Tyler",
+      "reviewText": "বইটি অসাধারণ। আমি ভিডিও টিউটোরিয়াল  দেখে জাভাস্ক্রিপ্ট  শিক্ষেছি।।কিছু কিছু টপিকস আমার কাছে কনফিউজড  ছিলা এ বইটি পড়ে সে কনফিউজড গুলো ক্লিয়ার হয়েছে। জুনায়েদ  ভাইকে অসংখ্য  ধন্যবাদ  বইটি লেখার জন্য।",
+      "ratting": 4
+    },
+    {
+      "id": "6255cd1424d2ff682d1eaefc",
+      "name": "Wilkinson Wilcox",
+      "reviewText": "In my opinion, it's really an amazing book for beginners who want to learn JavaScript in Bangla. The writer explained in detail and tried to make the hardest topic easy for learners.",
+      "ratting": 5
+    },
+    {
+      "id": "6255cd14b6388156ae815397",
+      "name": "Celeste Armstrong",
+      "reviewText": "বইটি পড়ে আমি জাভাস্ক্রিপ্ট এর অনেক জটিল বিষয় সহজে বুঝতে পেরেছি যা জাভাস্ক্রিপ্ট এর সৌন্দর্য কে পরিপূর্ণ রূপে উপভোগ করতে পেরেছি। যা পরবর্তী সময়ে রিএক্ট js কে বুঝতে সাহায্য করেছে।",
+      "ratting": 5
+    },
+    {
+      "id": "6255cd14a5610179914f25bb",
+      "name": "Hernandez Vaughan",
+      "reviewText": "বইটা অনেক ভালো। ছোট ছোট বিষয় থেকে অনেক বড় বিষয় খুব ভালোভাবে উদাহরণসহ বোঝানো হয়েছে। লেখা  ও বোঝানোর ধরন ভালো। যারা নতুন জাভাস্কপ্ট শেখা শুরু করছেন তাদের জন্য পারফেক্ট বই । সবার জন্য এই বইটি অনেক ভালো। ",
+      "ratting": 5
+    },
+    {
+      "id": "6255cd14abd20d2bb4c09d1e",
+      "name": "Andrea Carson",
+      "reviewText": "Got those books in time   good condition and the book is filled in huge informations. Thanks Zonayed Ahmed for writting this fabulous book for us amd also thanks to Rokomari for awesome delivery service. Plaaning to buy more books again❤💙",
+      "ratting": 4
+    },
+    {
+      "id": "6255cd141c989a90690d69d4",
+      "name": "Rhodes Mueller",
+      "reviewText": "A very good book for beginners. Covers almost all the basic topics to advanced topics ie - ES6 topics particularly. Written in a very comprehensive way, so anyone can understand.",
+      "ratting": 3
+    }
+  ]

@@ -1,9 +1,12 @@
+.headerPart,
+.customerReview{
+    width: 1170px;
+    margin: 0 auto;
+}
 .headerPart{
     display: grid;
     grid-template-columns: 3fr 2fr;
     grid-gap: 50px;
-    width: 1170px;
-    margin: 0 auto;
 }
 .header-right{
     margin-top: 40px;
@@ -31,4 +34,7 @@
 .btn:hover{
     color: rgba(173, 216, 230, 0.397);
     background: rgba(0, 0, 255, 0.582);
+}
+.customerReview{
+    text-align: center;
 }

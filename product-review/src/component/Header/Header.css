@@ -1,0 +1,32 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+.menu a {
+    text-decoration: none;
+    margin-right: 30px;
+    text-transform: uppercase;
+    color: #464747;
+    font-weight: 600;
+    position: relative;
+}
+.menu a::before {
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background: #464747;
+    top: 100%;
+    border-radius: 10px;
+    transition: .5s ease-in;
+    -webkit-transition: .5s ease-in;
+    -moz-transition: .5s ease-in;
+    -ms-transition: .5s ease-in;
+    -o-transition: .5s ease-in;
+}
+.menu a:hover::before{
+    width: 100%;
+    background: red;
+}

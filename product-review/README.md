@@ -3,10 +3,10 @@
 This project: [https://book-review-tech.netlify.app/](https://book-review-tech.netlify.app/).
 
 ## Project Info
- Markup : * Book Review
-          * Book Custom Review page
-          * Dashboard page
-          * Blogs page
+ 1. Book Review
+ 2. Book Custom Review page
+ 3. Dashboard page
+ 4. Blogs page
                   
           
 

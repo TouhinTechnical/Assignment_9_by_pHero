@@ -4,7 +4,7 @@ import ReviewContent from '../ReviewContent/ReviewContent';
 import './Review.css';
 
 const Review = () => {
-    const [reviews] = useReview();
+    const [reviews] = useReview(); // use hook
     return (
         <React.Fragment>
             <h1 className='headingReviewText'>What our customer say!({reviews.length})</h1>

@@ -1,0 +1,17 @@
+.quesMain{
+    display: flex;
+    width: 1170px;
+    margin: 0 auto;
+}
+.ques-1,
+.ques-2{
+    margin-right: 20px;
+    background: teal;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 10px;
+    color: rgb(196, 230, 230);
+}

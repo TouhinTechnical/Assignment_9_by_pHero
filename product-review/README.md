@@ -1,6 +1,6 @@
 # Book Review Webbsite
 
-This project was bootstrapped with [Live Link](https://book-review-tech.netlify.app/).
+This project: [https://book-review-tech.netlify.app/](https://book-review-tech.netlify.app/).
 
 ## Project Info
  Markup : * Book Review

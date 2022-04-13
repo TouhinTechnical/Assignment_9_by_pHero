@@ -1,0 +1,15 @@
+.errorPage{
+    width: 1170px;
+    margin: 0 auto;
+    position: relative;
+}
+.errorPage h4{
+    position: absolute;
+    top: 68%;
+    right: 10%;
+}
+.errorPage .btn{
+    position: absolute;
+    top: 75%;
+    right: 20%;
+}

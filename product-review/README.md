@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Book Review Webbsite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live Link](https://book-review-tech.netlify.app/).
 
-## Available Scripts
+## Project Info
+ Markup : * Book Review
+          * Book Custom Review page
+          * Dashboard page
+          * Blogs page
+                  
+          
 
 In the project directory, you can run:
 

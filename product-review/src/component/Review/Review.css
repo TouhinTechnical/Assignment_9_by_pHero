@@ -1,0 +1,11 @@
+.headingReviewText{
+    text-align: center;
+}
+.review{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    width: 1170px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}

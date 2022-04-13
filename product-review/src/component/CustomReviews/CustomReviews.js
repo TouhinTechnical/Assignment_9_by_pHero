@@ -1,21 +1,18 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Link } from "react-router-dom";
+import useReview from '../../hook/useReview';
 import CustomerReview from '../CustomerReview/CustomerReview';
 import './CustomReviews.css'
 
 const CustomReviews = () => {
-    const [reviews, setReviews] = useState([]);
-    useEffect(() => {
-        fetch('bookreview.json')
-        .then(res => res.json())
-        .then(data => setReviews(data))
-    }, []);
+    const [reviews] = useReview();
+    const review = reviews.slice(0, 3);
     return (
         <React.Fragment>
-            <h2>Customer Review({reviews.length})</h2>
+            <h2>Customer Review({review.length})</h2>
             <div className='CustomReviews'>
                 {
-                    reviews.map(review => <CustomerReview
+                    review.map(review => <CustomerReview
                     key={review.id}
                     review={review}
                     ></CustomerReview>)

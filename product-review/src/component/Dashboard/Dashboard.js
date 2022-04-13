@@ -1,10 +1,15 @@
 import React from 'react';
+import Chart from '../Chart/Chart';
+import './Dashboard.css';
 
 const Dashboard = () => {
     return (
-        <div>
-            <h1>This is Dashboard</h1>
-        </div>
+        <React.Fragment>
+            <h1 className='dashCenter'>Dashboard</h1>
+            <div>
+                <Chart></Chart>
+            </div>
+        </React.Fragment>
     );
 };
 
